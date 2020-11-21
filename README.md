@@ -28,13 +28,14 @@ I Used React and Bootstrap to build a responsive portfolio site.
 
 ## Links
 
-https://github.com/falconreid/React-Portfolio-2.0
+Github Repo: https://github.com/falconreid/React-Portfolio-2.0
 
-  <!-- https://falconreid.github.io/Responsive-Portfolio-JRT/ -->
+Deployed to Netlify: https://stoic-pasteur-d7da02.netlify.app/
 
 ### Screenshots
 
 ![Home Page](https://user-images.githubusercontent.com/5247408/99884232-d5d7dc00-2be9-11eb-9390-72a6a29bc3f6.jpg)
 
 ![Portfolio Page](https://user-images.githubusercontent.com/5247408/99884242-eab46f80-2be9-11eb-8015-782ab8fe6b6b.jpg)
+
 ![Contact Page](https://user-images.githubusercontent.com/5247408/99884255-ff910300-2be9-11eb-807d-26c92b441652.jpg)
