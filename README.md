@@ -1,5 +1,6 @@
 # React Responsive Portfolio
-I Used Bootstrap to build a responsive portfolio site.
+
+I Used React and Bootstrap to build a responsive portfolio site.
 
 - Site is a Functional, deployed React application.
 
@@ -26,10 +27,14 @@ I Used Bootstrap to build a responsive portfolio site.
 - Added dropshadow to image based links to be more 'interactive'.
 
 ## Links
-  https://github.com/falconreid/Responsive-Portfolio-JRT
-  https://falconreid.github.io/Responsive-Portfolio-JRT/
+
+https://github.com/falconreid/React-Portfolio-2.0
+
+  <!-- https://falconreid.github.io/Responsive-Portfolio-JRT/ -->
 
 ### Screenshots
-![](./images/home-pg.jpg)
-![](./images/portfolio-pg.jpg)
-![](./images/contact-pg2.jpg)
+
+![Home Page](https://user-images.githubusercontent.com/5247408/99884232-d5d7dc00-2be9-11eb-9390-72a6a29bc3f6.jpg)
+
+![Portfolio Page](https://user-images.githubusercontent.com/5247408/99884242-eab46f80-2be9-11eb-8015-782ab8fe6b6b.jpg)
+![Contact Page](https://user-images.githubusercontent.com/5247408/99884255-ff910300-2be9-11eb-807d-26c92b441652.jpg)
